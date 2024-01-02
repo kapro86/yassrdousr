@@ -1,0 +1,31 @@
+{
+  "ads": [
+    {
+      "ad_status": "on",
+      "ad_type": "admob",
+
+      "admob_publisher_id": "pub-1234819124237609",
+      "admob_banner_unit_id": "ca-app-pub-1234819124237609/6789692839",
+      "admob_interstitial_unit_id": "ca-app-pub-1234819124237609/9224284486",
+      "admob_native_unit_id": "ca-app-pub-1234819124237609/2087656104",
+      "admob_app_open_unit_id": "ca-app-pub-1234819124237609/2135719573",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "startapp_app_id":"209556084" ,
+      "applovin_banner_unit_id": "0cddb50bea108adb",
+      "applovin_interstitial_unit_id": "2f98338194949e0e",
+      "interstitial_ad_interval": 5
+
+    }
+  ],
+  "settings": [
+    {
+      "ad_time": "15000",
+      "ad_time_rate": "80",
+      "quran_link":"https://server11.mp3quran.net/yasser/" ,
+      "facebook":"https://m.facebook.com/QoranFull" ,
+      "twitter":"https://mobile.twitter.com/FreeQuranMp3" ,
+      "insagram":"https://www.instagram.com/lestenquran"
+
+    }]}
